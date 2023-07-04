@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Marco Vittorio Mazzilli</h1>
+<h3 align="center">Jr. Full Stack Web Developer</h3>
 
-<!--
-**MarcoMazzilli/MarcoMazzilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="left">Languages and Tools:</h2>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,vite,laravel,nodejs,mysql,php,git,github,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/marco-vittorio-mazzilli-097a7b136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcomazzilli" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoMazzilli&show_icons=true&locale=en&layout=compact" alt="yhh" /></p>
