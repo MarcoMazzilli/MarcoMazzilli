@@ -2,7 +2,7 @@
 <h3 align="center">Jr. Full Stack Web Developer</h3>
 
 
-<h3 align="left">Languages and Tools:</h2> 
+<h2 align="left">Languages and Tools:</h2> 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,4 +15,4 @@
 <a href="https://www.linkedin.com/in/marco-vittorio-mazzilli-097a7b136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcomazzilli" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoMazzilli&show_icons=true&locale=en&layout=compact" alt="yhh" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoMazzilli&show_icons=true&locale=en&layout=compact" alt="yhh" /></p>
