@@ -2,7 +2,8 @@
 <h3 align="center">Jr. Full Stack Web Developer</h3>
 
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2> 
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,vite,laravel,nodejs,mysql,php,git,github,vscode)](https://skillicons.dev)
 
 <h2 align="left">Connect with me:</h2>
