@@ -15,10 +15,10 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.linkedin.com/in/marco-vittorio-mazzilli-097a7b136/">
-    <img src="linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://www.instagram.com/mazzillimarco_v/">
-    <img src="instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
 
 
