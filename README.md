@@ -2,7 +2,7 @@
 <h3 align="center">Jr. Full Stack Web Developer</h3>
 
 
-<h2 align="left">Languages and Tools:</h2> 
+<h3 align="left">Languages and Tools:</h2> 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/marco-vittorio-mazzilli-097a7b136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcomazzilli" height="30" width="40" /></a>
 </p>
