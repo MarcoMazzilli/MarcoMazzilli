@@ -4,7 +4,11 @@
 
 <h2 align="left">Languages and Tools:</h2> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,vite,laravel,nodejs,mysql,php,git,github,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,vite,laravel,nodejs,mysql,php,git,github,vscode" />
+  </a>
+</p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
