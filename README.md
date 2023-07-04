@@ -11,12 +11,14 @@
 </p>
 
 <h3 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/marco-vittorio-mazzilli-097a7b136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcomazzilli" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mazzillimarco_v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcovittoriomazzilli" height="30" width="40" /></a>
-</p>
   <a href="https://github.com/MarcoMazzilli">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/marco-vittorio-mazzilli-097a7b136/">
+    <img src="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/mazzillimarco_v/">
+    <img src="instagram" />
   </a>
 
 
